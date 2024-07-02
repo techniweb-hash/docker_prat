@@ -1,1 +1,2 @@
-dockkk
+docker --version
+docker run -dit ubuntu :latest
